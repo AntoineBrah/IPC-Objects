@@ -1,0 +1,1 @@
+g++ -c initsem.c ; g++ initsem.o -o initsem ; ./initsem ; rm initsem.o 

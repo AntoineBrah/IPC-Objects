@@ -1,0 +1,1 @@
+g++ -c prog3.c ; g++ prog3.o -o prog3 ; ./prog3 ; rm prog3.o ; rm prog3
